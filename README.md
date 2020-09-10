@@ -79,10 +79,7 @@ The participation rate of Illinois increased from 9.0 in 2017 to 99.0 in 2018.
 Having carried out outside research, the sudden increment in SAT participation rate in these 2 states is in fact due to the mandatory requirment of the state to take SAT.
 
 
-## Mandatory requirement affects SAT participation rate
-
-
-#### Mandatory requirement affects SAT participation rate
+### Mandatory requirement affects SAT participation rate
 
 The relationship between SAT and ACT participation rate is totally competent. Most states with participation rates in one test have low participation rate in the other. Bascially, in one state with high SAT participation rate, the ACT partipation rate is very low. 
 
@@ -90,17 +87,20 @@ Since there is mandatory requirement in certain states to take either SAT and AC
 
 Below are 3 articles that show which few states have listed ACT or SAT as mandatory, and some states that have made both tests optioal for college admission. 
 
-##### 1. Standardized Testing Preference State by State 
+#### 1. Standardized Testing Preference State by State 
 Which states like the SAT? What about the ACT? Click here for College Raptor's infographic to see standardized testing preferences state by state.
+
 https://www.collegeraptor.com/getting-in/articles/act-sat/preference-act-sat-state-infographic/
 
-##### 2. Which States Require Students to Take the SAT or ACT?
+#### 2. Which States Require Students to Take the SAT or ACT?
 A growing number of states are requiring high school students to take the SAT or ACT, according to Education Week's annual testing survey.
+
 https://www.edweek.org/ew/section/multimedia/states-require-students-take-sat-or-act.html
 
 
-##### 3. Colorado Changed to the SAT in 2017: What You Need to Know - Testive
+#### 3. Colorado Changed to the SAT in 2017: What You Need to Know - Testive
 On April 11th, 2017 all Colorado high school juniors will take the SAT. Why does this matter? In 2016, only 5500 Colorado students took the test. Effective this spring, Colorado and the College Board partnered to administer the SAT as the state’s accountability exam and every ...
+
 https://www.testive.com/colorado-sat-change-2017/
 
 From the charts , we can see there is also a negative correlation between participation rate and totoal score. 
@@ -133,6 +133,7 @@ Ohio has about 1.6 million of students - fufill the criteria of being a sizable 
 
 Since Ohio fits all the criteria of being an ideal market to expand SAT participation rate growth, it's my top pick. 
 
-##### Source: https://nces.ed.gov/programs/digest/d19/tables/dt19_203.20.asp
+Source: https://nces.ed.gov/programs/digest/d19/tables/dt19_203.20.asp
+
 Table: Enrollment in public elementary and secondary schools, by region, state, and jurisdiction: Selected years, fall 1990 through fall 2029
 
